@@ -1,3 +1,7 @@
+"""
+Presentera TioKommaTvå:s tider i Billingestafetten 2024
+"""
+
 def to_seconds(s):
     sl = reversed(s.split(':'))
     out_sum = 0
